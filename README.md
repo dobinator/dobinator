@@ -1,4 +1,15 @@
 ### Hi there 👋
+😄 Pronouns: she/ her
+
+  I am starting my second career with coding, prior to the switch- I was a high school art teacher! 
+
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+🤔 I’m looking for help with ...
+Languages and skills I have: 
+
+
+
 
 <!--
 **dobinator/dobinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
