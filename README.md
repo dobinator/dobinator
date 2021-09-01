@@ -22,13 +22,13 @@
 
 
 
-##🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
-##🌱 I’m currently learning 
+## 🌱 I’m currently learning 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-##🤔 I’m looking for help with ...
+## 🤔 I’m looking for help with ...
 
 
 
