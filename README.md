@@ -19,7 +19,7 @@
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
-\
+
 
 
 ##🔭 I’m currently working on ...
