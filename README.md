@@ -23,15 +23,14 @@
 
 
 ## 🔭 I’m currently working on
-  Making apps that utilize both my teacher background and as an artist.  
+  Making apps that utilize both my teaching background and as an artist.  
     
 ## 🌱 I’m currently learning 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🤔 I’m looking for help with 
-  How does one get into Data? I really, really enjoy adding tables and creating seeds. Its oddly satisfying.
-
+  How does one get into Data? I really, really enjoy adding tables and creating seeds. Its oddly satisfying. 
 
 
 
