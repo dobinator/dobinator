@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 😄 Pronouns: she/ her
 
   I am starting my second career with coding, prior to the switch- I was a high school art teacher! 
