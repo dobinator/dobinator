@@ -1,9 +1,9 @@
-## Hi there 👋
+### Hi there 👋
 😄 Pronouns: she/ her
 
   I am starting my second career with coding, prior to the switch- I was a high school art teacher! 
 
-## Languages and skills I have: 
+### Languages and skills I have: 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,14 +22,14 @@
 
 
 
-## 🔭 I’m currently working on
+### 🔭 I’m currently working on
   Making apps that utilize both my teaching background and as an artist.  
     
-## 🌱 I’m currently learning 
+### 🌱 I’m currently learning 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 🤔 I’m looking for help with 
+### 🤔 I’m looking for help with 
   How does one get into Data? I really, really enjoy adding tables and creating seeds. Its oddly satisfying. 
 
 
