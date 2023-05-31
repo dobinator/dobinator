@@ -32,7 +32,7 @@
 ### 🤔 I’m looking for help with 
   How does one get into Data? I really, really enjoy adding tables and creating seeds. Its oddly satisfying. 
 
-###Link to my UX portfolio:  
+### Link to my UX portfolio:  
 
 https://www.emilymdobson.app/
 
