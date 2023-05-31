@@ -1,7 +1,7 @@
 ### Hi there 👋
 😄 Pronouns: she/ her
 
-  I am starting my second career with coding, prior to the switch- I was a Seondary Art Teacher! 
+  I am starting my second career with coding, prior to the switch- I was a Secondary Art Teacher! 
 
 ### Languages and skills I have: 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
