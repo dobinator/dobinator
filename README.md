@@ -32,7 +32,9 @@
 ### 🤔 I’m looking for help with 
   How does one get into Data? I really, really enjoy adding tables and creating seeds. Its oddly satisfying. 
 
-Link to my UX portfolio:   https://www.emilymdobson.app/
+###Link to my UX portfolio:  
+
+https://www.emilymdobson.app/
 
 <!--
 **dobinator/dobinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
