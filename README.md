@@ -1,7 +1,7 @@
 ### Hi there 👋
 😄 Pronouns: she/ her
 
-  I am starting my second career with coding, prior to the switch- I was a Secondary Art Teacher! 
+  I am starting my second career in tech, prior to the switch- I was a Secondary Art Teacher! 
 
 ### Languages and skills I have: 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,7 +23,7 @@
 
 
 ### 🔭 I’m currently working on
-  Making apps that utilize both my teaching background and as an artist.  
+  I just completed a UX Design program and will be utilizing my skills with coding to be a double threat.  
     
 ### 🌱 I’m currently learning 
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -32,8 +32,7 @@
 ### 🤔 I’m looking for help with 
   How does one get into Data? I really, really enjoy adding tables and creating seeds. Its oddly satisfying. 
 
-
-
+Link to my UX portfolio:   https://www.emilymdobson.app/
 
 <!--
 **dobinator/dobinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
